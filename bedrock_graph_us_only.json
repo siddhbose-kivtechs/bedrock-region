@@ -169,8 +169,8 @@
       "group": "model"
     },
     {
-      "id": "United States",
-      "group": "country"
+      "id": "AWS BEDROCK",
+      "group": "parent"
     },
     {
       "id": "Nova Sonic",
