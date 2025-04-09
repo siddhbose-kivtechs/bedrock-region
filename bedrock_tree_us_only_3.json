@@ -1,0 +1,43 @@
+{
+  "name": "United States",
+  "children": [
+    {
+      "name": "us-east-1",
+      "children": [
+        {
+          "name": "modelA"
+        },
+        {
+          "name": "modelB"
+        }
+      ]
+    },
+    {
+      "name": "us-east-2",
+      "children": [
+        {
+          "name": "modelC"
+        }
+      ]
+    },
+    {
+      "name": "us-west-1",
+      "children": [
+        {
+          "name": "modelD"
+        }
+      ]
+    },
+    {
+      "name": "us-west-2",
+      "children": [
+        {
+          "name": "modelE"
+        },
+        {
+          "name": "modelF"
+        }
+      ]
+    }
+  ]
+}
