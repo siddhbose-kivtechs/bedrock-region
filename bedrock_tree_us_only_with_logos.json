@@ -1,0 +1,49 @@
+{
+  "name": "United States",
+  "children": [
+    {
+      "name": "us-east-1",
+      "children": [
+        {
+          "name": "modelA",
+          "provider": "anthropic.png"
+        },
+        {
+          "name": "modelB",
+          "provider": "amazon.png"
+        }
+      ]
+    },
+    {
+      "name": "us-east-2",
+      "children": [
+        {
+          "name": "modelC",
+          "provider": "meta.png"
+        }
+      ]
+    },
+    {
+      "name": "us-west-1",
+      "children": [
+        {
+          "name": "modelD",
+          "provider": "mistral.png"
+        }
+      ]
+    },
+    {
+      "name": "us-west-2",
+      "children": [
+        {
+          "name": "modelE",
+          "provider": "cohere.png"
+        },
+        {
+          "name": "modelF",
+          "provider": "ai21.png"
+        }
+      ]
+    }
+  ]
+}
