@@ -1,0 +1,1046 @@
+{
+  "nodes": [
+    {
+      "id": "Jamba-Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Titan Image Generator G1 v2",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3 70B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Claude 3 Opus",
+      "group": "model"
+    },
+    {
+      "id": "Titan Text Embeddings V2",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3.1 8B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "SDXL 1.0",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3.1 70B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Rerank 1.0",
+      "group": "model"
+    },
+    {
+      "id": "Nova Lite",
+      "group": "model"
+    },
+    {
+      "id": "Titan Text G1 - Express",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3.2 90B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "us-west-2",
+      "group": "region"
+    },
+    {
+      "id": "Titan Image Generator G1",
+      "group": "model"
+    },
+    {
+      "id": "us-west-1",
+      "group": "region"
+    },
+    {
+      "id": "Stable Image Core 1.0",
+      "group": "model"
+    },
+    {
+      "id": "Nova Reel",
+      "group": "model"
+    },
+    {
+      "id": "Claude 3.5 Sonnet v2",
+      "group": "model"
+    },
+    {
+      "id": "Pixtral Large (25.02)",
+      "group": "model"
+    },
+    {
+      "id": "Claude 3.5 Sonnet",
+      "group": "model"
+    },
+    {
+      "id": "Jamba 1.5 Large",
+      "group": "model"
+    },
+    {
+      "id": "Rerank 3.5",
+      "group": "model"
+    },
+    {
+      "id": "Embed English",
+      "group": "model"
+    },
+    {
+      "id": "Claude 3 Sonnet",
+      "group": "model"
+    },
+    {
+      "id": "Titan Text G1 - Premier",
+      "group": "model"
+    },
+    {
+      "id": "Titan Text Large",
+      "group": "model"
+    },
+    {
+      "id": "Nova Micro",
+      "group": "model"
+    },
+    {
+      "id": "Titan Multimodal Embeddings G1",
+      "group": "model"
+    },
+    {
+      "id": "Command R",
+      "group": "model"
+    },
+    {
+      "id": "us-east-1",
+      "group": "region"
+    },
+    {
+      "id": "Command Light",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3 8B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Mistral 7B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Command R+",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3.2 1B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Stable Image Ultra 1.0",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3.1 405B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Claude",
+      "group": "model"
+    },
+    {
+      "id": "Mixtral 8x7B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "DeepSeek-R1",
+      "group": "model"
+    },
+    {
+      "id": "SD3 Large 1.0",
+      "group": "model"
+    },
+    {
+      "id": "Jamba 1.5 Mini",
+      "group": "model"
+    },
+    {
+      "id": "United States",
+      "group": "country"
+    },
+    {
+      "id": "Nova Sonic",
+      "group": "model"
+    },
+    {
+      "id": "Titan Text G1 - Lite",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3.3 70B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Nova Canvas",
+      "group": "model"
+    },
+    {
+      "id": "Titan Embeddings G1 - Text",
+      "group": "model"
+    },
+    {
+      "id": "Titan Text Embeddings v2",
+      "group": "model"
+    },
+    {
+      "id": "Mistral Large (24.02)",
+      "group": "model"
+    },
+    {
+      "id": "Stable Diffusion 3.5 Large",
+      "group": "model"
+    },
+    {
+      "id": "Claude 3 Haiku",
+      "group": "model"
+    },
+    {
+      "id": "Command",
+      "group": "model"
+    },
+    {
+      "id": "Mistral Small (24.02)",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3.2 3B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Claude 3.7 Sonnet",
+      "group": "model"
+    },
+    {
+      "id": "Llama 3.2 11B Instruct",
+      "group": "model"
+    },
+    {
+      "id": "Embed Multilingual",
+      "group": "model"
+    },
+    {
+      "id": "us-east-2",
+      "group": "region"
+    },
+    {
+      "id": "Mistral Large (24.07)",
+      "group": "model"
+    },
+    {
+      "id": "Ray v2",
+      "group": "model"
+    },
+    {
+      "id": "Claude Instant",
+      "group": "model"
+    },
+    {
+      "id": "Nova Pro",
+      "group": "model"
+    },
+    {
+      "id": "Claude 3.5 Haiku",
+      "group": "model"
+    }
+  ],
+  "links": [
+    {
+      "source": "United States",
+      "target": "us-east-1"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text Large"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Image Generator G1"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Image Generator G1"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Image Generator G1 v2"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text G1 - Premier"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Pro"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Pro"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Pro"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Lite"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Lite"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Lite"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Canvas"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Reel"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Reel"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Micro"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Micro"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Micro"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Nova Sonic"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text Embeddings v2"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text G1 - Lite"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text G1 - Lite"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text G1 - Express"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text G1 - Express"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Embeddings G1 - Text"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Embeddings G1 - Text"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text Embeddings V2"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Text Embeddings V2"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Multimodal Embeddings G1"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Titan Multimodal Embeddings G1"
+    },
+    {
+      "source": "us-east-1",
+      "target": "SDXL 1.0"
+    },
+    {
+      "source": "us-east-1",
+      "target": "SDXL 1.0"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Jamba-Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Jamba 1.5 Large"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Jamba 1.5 Mini"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude Instant"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude Instant"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Sonnet"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Sonnet"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Sonnet"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Haiku"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Haiku"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Haiku"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Opus"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Opus"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Opus"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3 Opus"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3.5 Sonnet"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3.5 Sonnet v2"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3.7 Sonnet"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Claude 3.5 Haiku"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Command"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Command"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Command R"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Command R+"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Command Light"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Command Light"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Embed English"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Embed English"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Embed Multilingual"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Embed Multilingual"
+    },
+    {
+      "source": "us-east-1",
+      "target": "DeepSeek-R1"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3 8B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3 70B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3.1 8B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3.1 70B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3.2 11B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3.2 90B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3.2 1B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3.2 3B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Llama 3.3 70B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Mistral 7B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Mixtral 8x7B Instruct"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Mistral Large (24.02)"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Mistral Small (24.02)"
+    },
+    {
+      "source": "us-east-1",
+      "target": "Pixtral Large (25.02)"
+    },
+    {
+      "source": "United States",
+      "target": "us-east-2"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Titan Text Embeddings V2"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Nova Pro"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Nova Lite"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Nova Micro"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Claude 3.5 Sonnet"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Claude 3.7 Sonnet"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Claude 3 Haiku"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Claude 3 Haiku"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Claude 3.5 Sonnet v2"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Claude 3.5 Haiku"
+    },
+    {
+      "source": "us-east-2",
+      "target": "DeepSeek-R1"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Pixtral Large (25.02)"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.1 8B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.1 8B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.1 70B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.1 70B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.1 405B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.2 11B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.2 90B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.2 1B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.2 3B Instruct"
+    },
+    {
+      "source": "us-east-2",
+      "target": "Llama 3.3 70B Instruct"
+    },
+    {
+      "source": "United States",
+      "target": "us-west-1"
+    },
+    {
+      "source": "us-west-1",
+      "target": "Titan Text Embeddings V2"
+    },
+    {
+      "source": "United States",
+      "target": "us-west-2"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Text Large"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Text Embeddings v2"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Text G1 - Lite"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Text G1 - Lite"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Text G1 - Express"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Text G1 - Express"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Nova Pro"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Nova Lite"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Nova Micro"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Embeddings G1 - Text"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Embeddings G1 - Text"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Text Embeddings V2"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Multimodal Embeddings G1"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Multimodal Embeddings G1"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Image Generator G1"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Image Generator G1"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Titan Image Generator G1 v2"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Rerank 1.0"
+    },
+    {
+      "source": "us-west-2",
+      "target": "SDXL 1.0"
+    },
+    {
+      "source": "us-west-2",
+      "target": "SDXL 1.0"
+    },
+    {
+      "source": "us-west-2",
+      "target": "SD3 Large 1.0"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Stable Diffusion 3.5 Large"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Stable Image Core 1.0"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Stable Image Core 1.0"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Stable Image Ultra 1.0"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Stable Image Ultra 1.0"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Sonnet v2"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Sonnet v2"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Sonnet v2"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Sonnet v2"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.7 Sonnet"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Haiku"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude Instant"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude Instant"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Sonnet"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Sonnet"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Sonnet"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Haiku"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Haiku"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Haiku"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Opus"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Opus"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Opus"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3 Opus"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Sonnet"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Sonnet"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Sonnet"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Claude 3.5 Sonnet"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Command"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Command"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Command R"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Command R+"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Command Light"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Command Light"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Embed English"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Embed English"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Embed Multilingual"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Embed Multilingual"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Rerank 3.5"
+    },
+    {
+      "source": "us-west-2",
+      "target": "DeepSeek-R1"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3 8B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3 70B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.1 8B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.1 8B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.1 70B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.1 70B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.1 405B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.2 11B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.2 11B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.2 90B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.2 90B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.2 1B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.2 1B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.2 3B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.2 3B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Llama 3.3 70B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Mistral 7B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Mixtral 8x7B Instruct"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Mistral Large (24.02)"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Mistral Large (24.07)"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Pixtral Large (25.02)"
+    },
+    {
+      "source": "us-west-2",
+      "target": "Ray v2"
+    }
+  ]
+}
