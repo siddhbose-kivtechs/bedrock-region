@@ -170,7 +170,7 @@
     },
     {
       "id": "AWS BEDROCK",
-      "group": "parent"
+      "group": "primary"
     },
     {
       "id": "Nova Sonic",
@@ -259,7 +259,7 @@
   ],
   "links": [
     {
-      "source": "United States",
+      "source": "AWS BEDROCK",
       "target": "us-east-1"
     },
     {
@@ -587,7 +587,7 @@
       "target": "Pixtral Large (25.02)"
     },
     {
-      "source": "United States",
+      "source": "AWS BEDROCK",
       "target": "us-east-2"
     },
     {
@@ -679,7 +679,7 @@
       "target": "Llama 3.3 70B Instruct"
     },
     {
-      "source": "United States",
+      "source": "AWS BEDROCK",
       "target": "us-west-1"
     },
     {
@@ -687,7 +687,7 @@
       "target": "Titan Text Embeddings V2"
     },
     {
-      "source": "United States",
+      "source": "AWS BEDROCK",
       "target": "us-west-2"
     },
     {
